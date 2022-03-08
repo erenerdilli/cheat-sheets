@@ -1,7 +1,7 @@
 # cheat-sheets
-- [CSS Cheat Sheet](css-cheat-sheet.pdf)
-- [Docker Cheat Sheet](docker-cheat-sheet.pdf)
-- [Git Cheat Sheet](git-cheat-sheet-education.pdf)
-- [JPA Cheat Sheet](Jpa-Cheatsheet.java)
-- [Kubernetes Cheat Sheet](Kubernetes_Cheat_Sheet.pdf)
-- [Maven Cheat Sheet](maven-cheat-sheet.pdf)
+- [CSS Cheat Sheet](files/css-cheat-sheet.pdf)
+- [Docker Cheat Sheet](files/docker-cheat-sheet.pdf)
+- [Git Cheat Sheet](files/git-cheat-sheet-education.pdf)
+- [JPA Cheat Sheet](files/Jpa-Cheatsheet.java)
+- [Kubernetes Cheat Sheet](files/Kubernetes_Cheat_Sheet.pdf)
+- [Maven Cheat Sheet](files/maven-cheat-sheet.pdf)
