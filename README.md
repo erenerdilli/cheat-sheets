@@ -6,3 +6,4 @@
 - [Kubernetes Cheat Sheet](files/Kubernetes_Cheat_Sheet.pdf)
 - [Maven Cheat Sheet](files/maven-cheat-sheet.pdf)
 - [Streams Cheat Sheet](files/streams-cheat-sheet.pdf)
+- [Regex Cheat Sheet](files/regex-cheat-sheet.pdf)
