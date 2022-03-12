@@ -5,3 +5,4 @@
 - [JPA Cheat Sheet](files/Jpa-Cheatsheet.java)
 - [Kubernetes Cheat Sheet](files/Kubernetes_Cheat_Sheet.pdf)
 - [Maven Cheat Sheet](files/maven-cheat-sheet.pdf)
+- [Streams Cheat Sheet](files/streams-cheat-sheet.pdf)
