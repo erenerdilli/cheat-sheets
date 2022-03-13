@@ -7,3 +7,4 @@
 - [Maven Cheat Sheet](files/maven-cheat-sheet.pdf)
 - [Streams Cheat Sheet](files/streams-cheat-sheet.pdf)
 - [Regex Cheat Sheet](files/regex-cheat-sheet.pdf)
+- [HTML5 Cheat Sheet](files/html5-cheat-sheet.pdf)
