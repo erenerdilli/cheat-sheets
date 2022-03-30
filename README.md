@@ -8,3 +8,4 @@
 - [Streams Cheat Sheet](files/streams-cheat-sheet.pdf)
 - [Regex Cheat Sheet](files/regex-cheat-sheet.pdf)
 - [HTML5 Cheat Sheet](files/html5-cheat-sheet.pdf)
+- [Collections Cheat Sheet](files/java-collections-cheat-sheet.pdf)
